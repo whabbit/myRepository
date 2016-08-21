@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
+<<<<<<< HEAD
+=======
+#include <stdlib.h>
+>>>>>>> mybranch
 
 int main() {
     //modules_init();
