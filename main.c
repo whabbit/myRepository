@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
+<<<<<<< HEAD
 #include <math.h>
+=======
+>>>>>>> master
 
 int main() {
     //modules_init();
